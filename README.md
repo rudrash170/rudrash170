@@ -19,22 +19,14 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 
----
 
-### 📚 ACADEMIC PROJECTS
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| [**Cloud Resume API**](https://github.com/yourusername/cloud-resume) | Serverless resume backend with visitor counter | Python • Cloud Functions • Firestore |
-| [**Course Scheduler**](https://github.com/yourusername/course-scheduler) | University timetable optimization tool | Python • Flask • GCP Compute Engine |
-| [**IoT Data Pipeline**](https://github.com/yourusername/iot-pipeline) | Sensor data collection and visualization | Python • Pub/Sub • BigQuery • Data Studio |
-| [**Terraform Lab Setup**](https://github.com/yourusername/gcp-lab) | Automated GCP environment for coursework | Terraform • GCP • Cloud Shell |
 
 ---
 
 ### 📜 CERTIFICATIONS
 <p align="center">
-  <a href="https://www.credential.net/your-certificate-id">
-    <img src="https://images.credly.com/size/110x110/images/2a6251f2-737b-4bf6-9490-9d9ff5d8b686/Google-Cloud-Computing-Foundations.png" width="80" alt="Google Cloud Computing Foundations">
+  <a href="https://www.credly.com/badges/49571600-a40c-4165-bf64-2d8b7b2cc2f2/public_url">
+    <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/twitter_thumb_201604_image.png" width="170" alt="Google Cloud Computing Foundations">
   </a>
 </p>
 
@@ -42,9 +34,11 @@
 
 ### 🌱 CURRENTLY LEARNING
 ```python
-# Cloud Skills in Progress
-gcp_skills = {
-    "services": ["Cloud Run", "Cloud Functions", "BigQuery"],
-    "concepts": ["IAM Roles", "VPC Networking", "Cost Optimization"],
-    "tools": ["Cloud SDK", "Cloud Monitoring", "Terraform"]
+# Skills in Progress
+skills_to_polish = {
+    [Cloud-Native Development, Python For Automation, Scalable Backend Architecture, IaC, ]
 }
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrash170)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/srudra170)
