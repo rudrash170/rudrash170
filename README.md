@@ -32,7 +32,7 @@
     <img src="https://images.credly.com/size/110x110/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="170" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge">
   </a>
   <a href="https://www.credly.com/badges/15a90749-ac76-4a1b-b0c1-e4d6991a7045/public_url">
-    <img src="https://images.credly.com/size/110x110/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="170" alt="Prompt Design in VertexAI">
+    <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="170" alt="Prompt Design in VertexAI">
   </a>
 </p>
 
