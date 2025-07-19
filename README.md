@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=BTech+CSE+Student+%F0%9F%93%9A;Google+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%8D%92;Learning+Cloud+Infrastructure+%F0%9F%93%A6" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=CS+Undergrad+Student+%F0%9F%93%9A;Google+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Python+Developer+%F0%9F%8D%92;Learning+Cloud+Infrastructure+%F0%9F%93%A6" alt="Typing Intro">
 </p>
 
 ---
