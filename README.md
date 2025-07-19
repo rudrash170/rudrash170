@@ -28,6 +28,12 @@
   <a href="https://www.credly.com/badges/49571600-a40c-4165-bf64-2d8b7b2cc2f2/public_url">
     <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/twitter_thumb_201604_image.png" width="170" alt="Google Cloud Computing Foundations">
   </a>
+  <a href="https://www.credly.com/badges/0f682119-df23-44b9-af3f-ab28845d0ac4/public_url">
+    <img src="https://images.credly.com/size/110x110/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="170" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge">
+  </a>
+  <a href="https://www.credly.com/badges/15a90749-ac76-4a1b-b0c1-e4d6991a7045/public_url">
+    <img src="https://images.credly.com/size/110x110/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="170" alt="Prompt Design in VertexAI">
+  </a>
 </p>
 
 ---
