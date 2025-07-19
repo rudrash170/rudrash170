@@ -29,10 +29,13 @@
     <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/twitter_thumb_201604_image.png" width="170" alt="Google Cloud Computing Foundations">
   </a>
   <a href="https://www.credly.com/badges/0f682119-df23-44b9-af3f-ab28845d0ac4/public_url">
-    <img src="https://images.credly.com/size/110x110/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="170" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge">
+    <img src="https://images.credly.com/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" width="170" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge">
   </a>
   <a href="https://www.credly.com/badges/15a90749-ac76-4a1b-b0c1-e4d6991a7045/public_url">
     <img src="https://images.credly.com/size/340x340/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="170" alt="Prompt Design in VertexAI">
+  </a>
+  <a href="https://www.credly.com/badges/1a12b56f-d625-47b7-81f5-9f024ae60398/public_url">
+    <img src="https://images.credly.com/size/340x340/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob" width="170" alt="Build Real World AI Applications with Gemini and Imagen Skill Badge">
   </a>
 </p>
 
