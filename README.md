@@ -45,7 +45,7 @@
 ```python
 # Skills in Progress
 skills_in_progress = {
-    [Cloud-Native Development, Python For Automation, Scalable Backend Architecture, IaC, ]
+    [Cloud-Native Development, Python For Automation, Scalable Backend Architecture, IaC]
 }
 ```
 
