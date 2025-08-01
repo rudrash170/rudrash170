@@ -44,7 +44,7 @@
 ### 🌱 CURRENTLY LEARNING
 ```python
 # Skills in Progress
-skills_to_polish = {
+skills_in_progress = {
     [Cloud-Native Development, Python For Automation, Scalable Backend Architecture, IaC, ]
 }
 ```
